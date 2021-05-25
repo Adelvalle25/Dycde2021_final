@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=R3-1
+Removed Pin From Net: NetName=3V3 Pin=U2-10
+Added Pin To Net: NetName=3V3 Pin=R2-1
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Pin To Net: NetName=SCL Pin=R3-1
+Added Pin To Net: NetName=SCL Pin=U1-D1
+Added Pin To Net: NetName=SCL Pin=U2-10
+Added Net: Name=SCL
+Added Member To Class: ClassName=Proyecto_DYCDE2021 Member=Component U1 NodeMcu_v3
+Added Room: Name=convertidosr
+Added Room: Name=Proyecto_DYCDE2021
+Added Room: Name=sensor

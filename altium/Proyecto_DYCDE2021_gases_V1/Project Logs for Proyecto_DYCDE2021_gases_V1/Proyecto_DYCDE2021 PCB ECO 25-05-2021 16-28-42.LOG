@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=ADDR New Net Name=GND
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=RGB(110, 110, 255)
+Added Room: Name=convertidosr
+Added Room: Name=Proyecto_DYCDE2021
+Added Room: Name=sensor

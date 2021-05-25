@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=ADDR Pin=R4-1
+Removed Pin From Net: NetName=ADDR Pin=R4-2
+Removed Member From Class: ClassName=convertidosr Member=R4
+Added Room: Name=convertidosr
+Added Room: Name=Proyecto_DYCDE2021
+Added Room: Name=sensor

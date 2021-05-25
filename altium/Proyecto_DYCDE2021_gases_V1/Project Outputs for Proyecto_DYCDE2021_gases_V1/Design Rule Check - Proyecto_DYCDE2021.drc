@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\aadel\Documents\GitHub\Dycde2021_final\altium\Proyecto_DYCDE2021_gases_V1\Proyecto_DYCDE2021.PcbDoc
-Date     : 23/05/2021
-Time     : 19:22:27
+Date     : 25/05/2021
+Time     : 16:37:14
 
 Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
 Rule Violations :0
@@ -51,4 +51,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
