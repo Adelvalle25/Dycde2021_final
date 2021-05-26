@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=3V3 Pin=R2-1
+Removed Pin From Net: NetName=3V3 Pin=U1-D2
+Removed Pin From Net: NetName=3V3 Pin=U2-9
+Change Net Color : Old Net Color=RGB(255, 110, 110) New Net Color=Default
+Change Net Color : Old Net Color=RGB(110, 110, 255) New Net Color=Default
+Added Pin To Net: NetName=SDA Pin=R2-1
+Added Pin To Net: NetName=SDA Pin=U1-D2
+Added Pin To Net: NetName=SDA Pin=U2-9
+Added Net: Name=SDA
+Added Room: Name=convertidosr
+Added Room: Name=Proyecto_DYCDE2021
+Added Room: Name=sensor
