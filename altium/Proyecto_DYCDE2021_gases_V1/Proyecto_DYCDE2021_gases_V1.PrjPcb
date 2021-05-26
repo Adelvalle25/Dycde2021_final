@@ -1132,9 +1132,8 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=AO|NetColor=$00FFFF6E
-Net2=NetName=GND|NetColor=$00FF6E6E
-Net3=NetName=NetU1_0|NetColor=$0000BE00
-Net4=NetName=VCC|NetColor=$006E6EFF
+Net2=NetName=NetU1_0|NetColor=$0000BE00
+Net3=NetName=VCC|NetColor=$006E6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
