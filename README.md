@@ -2,6 +2,18 @@
 ## Informacion
 
 ## Esquematico
+### Conexion del ADC Breakouts y MQ-135 a ESP8266
+![alt text][logo5]
+
+[logo5]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/esquematico1.jpg
+### MQ-135
+![alt text][logo6]
+
+[logo6]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/esquematico2.jpg
+### ADC Breakouts
+![alt text][logo7]
+
+[logo7]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/esquematico3.jpg
 
 ## placa fisica
 ### parte delantera
