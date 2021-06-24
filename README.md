@@ -1,8 +1,6 @@
 # Dycde2021_final
 ## Informacion
-Una implementación de un sensor MQ-135 con una ESP8266 para mandar datos mediante wifi hacia una aplicación llamada Blynk 
-con un ADC Brekout para agregar conversión analógica a 4 pines digitales de alta resolución
-
+Este proyecto consiste en la implementación de un sistema de detección de gases en el ambiente por medio de un sensor MQ-135 y medir el nivel de exposicion de cada gas que detecta el gas y una tarjeta de desarrollo NodeMcu que utiliza un chip ESP8266. El envío de los datos se realiza por medio de conexión Wi-Fi hacia la aplicación Blynk. Y se emplemento un ADC de 4 pines digitales para hacer conexiones de mas proyectos.
 
 ## Esquematico
 ### Conexion del ADC Breakouts y MQ-135 a ESP8266
