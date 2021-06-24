@@ -1,6 +1,10 @@
 # Dycde2021_final
+## Informacion
+
+## Esquematico
+
 ## placa fisica
-### parte delantes
+### parte delantera
 ![alt text][logo1]
 
 [logo1]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/fotoFinal1.jpg " Logo Title Text 2"
