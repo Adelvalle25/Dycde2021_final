@@ -1,5 +1,7 @@
 # Dycde2021_final
 ## Informacion
+Una implemetacion de un sensor MQ-135 con una ESP8266 para mandar datos mediante wifi hacia una aplicacion llamada blynk 
+con un ADC Brekout para agregar conversión analógica a digital de alta resolución 
 
 ## Esquematico
 ### Conexion del ADC Breakouts y MQ-135 a ESP8266
