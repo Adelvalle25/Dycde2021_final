@@ -9,10 +9,10 @@
 [logo]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/fotoFinal2.jpg "Logo Title Text 2"
 
 ## PCB 
-![alt text][logo1]
+![alt text][logo3]
 
-[logo1]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/pcb1.jpg
+[logo3]: https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/pcb1.jpg
 
-![alt text][logo]
+![alt text][logo4]
 
-[logo]:https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/pcb2.jpg
+[logo4]:https://github.com/Adelvalle25/Dycde2021_final/blob/main/imagenes/pcb2.jpg
