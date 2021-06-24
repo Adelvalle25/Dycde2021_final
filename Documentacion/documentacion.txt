@@ -1,0 +1,3 @@
+https://www.adafruit.com/product/3661#technical-details (miniboost 5v- AP3602A)
+
+https://naylampmechatronics.com/blog/42_tutorial-sensores-de-gas-mq2-mq3-mq7-y-mq135.html (pruebas de codigo con arduino de los sensores mq-135)
